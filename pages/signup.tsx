@@ -1,7 +1,7 @@
+import { default as Component } from '../components/signup'
+
 function SignUp(){
-    return (
-        <div><h1>Future Sign Up page</h1></div>
-    )
+    return <Component />
 }
 
 export default SignUp

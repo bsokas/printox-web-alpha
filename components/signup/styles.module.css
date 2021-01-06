@@ -1,0 +1,15 @@
+.userContainer {
+    padding: 2vh 10vw;
+}
+
+.userContainer h1 {
+    text-align: center;
+}
+
+.formContainer {
+    background-color: green;
+    width: 1000px;
+    height: auto;
+}
+
+
